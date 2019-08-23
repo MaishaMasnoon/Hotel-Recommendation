@@ -1,0 +1,192 @@
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\bin\Debug\PractisingForm.exe.config
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\bin\Debug\PractisingForm.exe
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\bin\Debug\PractisingForm.pdb
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\obj\Debug\PractisingForm.exe
+c:\users\maisha\documents\visual studio 2017\Projects\PractisingForm\PractisingForm\obj\Debug\PractisingForm.pdb
+C:\Users\maisha\Documents\Visual Studio 2017\Projects\PractisingForm\PractisingForm\bin\Debug\Database1.mdf
+C:\Users\maisha\Documents\Visual Studio 2017\Projects\PractisingForm\PractisingForm\bin\Debug\Database1_log.ldf
+C:\Users\maisha\Documents\Visual Studio 2017\Projects\PractisingForm\PractisingForm\obj\Debug\PractisingForm.Place2.resources
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\obj\Debug\PractisingForm.exe
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\obj\Debug\PractisingForm.pdb
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\bin\Debug\Database1.mdf
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\bin\Debug\Database1_log.ldf
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\bin\Debug\PractisingForm.exe.config
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\bin\Debug\PractisingForm.exe
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+C:\Users\acer\Downloads\PractisingForm\PractisingForm\bin\Debug\PractisingForm.pdb
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\bin\Debug\Database1.mdf
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\bin\Debug\Database1_log.ldf
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\bin\Debug\PractisingForm.exe.config
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\bin\Debug\PractisingForm.exe
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\bin\Debug\PractisingForm.pdb
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.exe
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.pdb
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.Form3.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban1.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban2.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban3.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong1.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong2.resources
+C:\Users\maisha\Downloads\Semi8\C#\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong3.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\bin\Debug\Database1.mdf
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\bin\Debug\Database1_log.ldf
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\bin\Debug\PractisingForm.exe.config
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\bin\Debug\PractisingForm.exe
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\bin\Debug\PractisingForm.pdb
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban1.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban2.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban3.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong1.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong2.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong3.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.Form3.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.exe
+C:\Users\acer\Desktop\projectprob\projectprob\PractisingForm\obj\Debug\PractisingForm.pdb
+D:\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\Database1.mdf
+D:\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\Database1_log.ldf
+D:\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.exe.config
+D:\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.exe
+D:\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.pdb
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban1.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban2.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban3.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong1.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong2.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong3.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form3.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.exe
+D:\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.pdb
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\Database1.mdf
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\Database1_log.ldf
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.exe.config
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.exe
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.pdb
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban1.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban2.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban3.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong1.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong2.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong3.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form3.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.exe
+G:\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.pdb
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\Database1.mdf
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\Database1_log.ldf
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.exe.config
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.exe
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.pdb
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban1.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban2.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban3.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong1.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong2.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong3.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form3.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.exe
+D:\C# project file\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.pdb
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\Database1.mdf
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\Database1_log.ldf
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.exe.config
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.exe
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\bin\Debug\PractisingForm.pdb
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban1.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban2.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban3.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong1.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong2.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong3.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Form3.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.exe
+C:\Users\maisha\Downloads\Semi8\C#\Final\Project\LatestVersion-2.0.1\LatestVersion1.0.2\NewVersion1.0.2\projectprob\PractisingForm\obj\Debug\PractisingForm.pdb
+C:\Users\maisha\Desktop\cSharp\PractisingForm\bin\Debug\Database1.mdf
+C:\Users\maisha\Desktop\cSharp\PractisingForm\bin\Debug\Database1_log.ldf
+C:\Users\maisha\Desktop\cSharp\PractisingForm\bin\Debug\PractisingForm.exe.config
+C:\Users\maisha\Desktop\cSharp\PractisingForm\bin\Debug\PractisingForm.exe
+C:\Users\maisha\Desktop\cSharp\PractisingForm\bin\Debug\PractisingForm.pdb
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban1.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban2.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban3.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong1.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong2.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong3.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.Form3.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.exe
+C:\Users\maisha\Desktop\cSharp\PractisingForm\obj\Debug\PractisingForm.pdb
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\bin\Debug\Database1.mdf
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\bin\Debug\Database1_log.ldf
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\bin\Debug\PractisingForm.exe.config
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\bin\Debug\PractisingForm.exe
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\bin\Debug\PractisingForm.pdb
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.csprojResolveAssemblyReference.cache
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban1.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban2.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryBandorban3.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong1.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong2.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.CatagoryChittagong3.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.Form1.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.Form2.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.Form3.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.Properties.Resources.resources
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.csproj.GenerateResource.Cache
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.exe
+C:\Users\maisha\Downloads\Semi8\cSharp\PractisingForm\obj\Debug\PractisingForm.pdb

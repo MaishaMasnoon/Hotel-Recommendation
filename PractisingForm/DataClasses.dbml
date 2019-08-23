@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Database1" Class="DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="PractisingForm.Properties.Settings" SettingsPropertyName="Database1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Place" Member="Places">
+    <Type Name="Place">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PlaceName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Place_Hotel" Member="Hotels" ThisKey="Id" OtherKey="PlaceId" Type="Hotel" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Hotel" Member="Hotels">
+    <Type Name="Hotel">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="HotelName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="HotelAddress" Type="System.String" DbType="VarChar(200) NOT NULL" CanBeNull="false" />
+      <Column Name="ContactNumber" Type="System.String" DbType="NChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="HotelRating" Type="System.String" DbType="NChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="PlaceId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Hotel_RoomCatagory" Member="RoomCatagories" ThisKey="Id" OtherKey="HotelId" Type="RoomCatagory" />
+      <Association Name="Place_Hotel" Member="Place" ThisKey="PlaceId" OtherKey="Id" Type="Place" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RoomCatagory" Member="RoomCatagories">
+    <Type Name="RoomCatagory">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoomType" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="RoomRent" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="HotelId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="RoomCatagory_RoomNumber" Member="RoomNumbers" ThisKey="Id" OtherKey="RoomCatagoryId" Type="RoomNumber" />
+      <Association Name="Hotel_RoomCatagory" Member="Hotel" ThisKey="HotelId" OtherKey="Id" Type="Hotel" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RoomNumber" Member="RoomNumbers">
+    <Type Name="RoomNumber">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoomNo" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="[Check In]" Member="Check_In" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="[Check Out]" Member="Check_Out" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="RoomCatagoryId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="RoomCatagory_RoomNumber" Member="RoomCatagory" ThisKey="RoomCatagoryId" OtherKey="Id" Type="RoomCatagory" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
